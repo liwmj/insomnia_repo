@@ -1,0 +1,21 @@
+_id: req_69f6f49d09294a8bb91e45bd5fd7e7a4
+type: Request
+parentId: wrk_d9ac13b1f8574c2e985f8e2edb7a4fa0
+modified: 1612416278595
+created: 1612416269043
+url: https://www.baidu.com
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1612416269043
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
